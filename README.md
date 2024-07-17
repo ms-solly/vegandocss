@@ -1,23 +1,39 @@
-# Nextra Docs Template 
+# Vegan Docs
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+>This is vegan documentation website [Vegan Docs](https://vegandocss.vercel.app/).
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+[ Have a look→](https://vegandocss.vercel.app/)
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+___
 
-## Quick Start
+## Our Intro
 
-Click the button to clone this repository and deploy it on Vercel:
+>Let's know and use the language of humanity.The way to live and let live to the fullest.The way to let this world , living beings and kindness stay alive.
 
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
 
-## Local Development
 
-First, run `pnpm i` to install the dependencies.
 
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
+                                                                                                     
 
-## License
 
-This project is licensed under the MIT License.
+
+`Veganism` the way to keep the **world**  ,  **living creatures**  and  **kindness alive** .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
